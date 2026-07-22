@@ -1,4 +1,4 @@
-# My current projects
+# My main projects
 
 <table align="center">
   <tr>
