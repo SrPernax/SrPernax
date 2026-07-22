@@ -1,16 +1,24 @@
-## Hi there 👋
+# My current projects
 
-<!--
-**SrPernax/SrPernax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/SrPernax/obsidian-storyscore">
+        <img src="banner-storyscore.png" alt="Banner de Obsidian Storyscore" width="100%">
+      </a>
+      <br><br>
+      <em>An Obsidian plugin to turn your soundtrack into a worldbuilding tool.</em>
+      <br><br>
+      <a href="https://github.com/SrPernax/obsidian-storyscore">Visit repository →</a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/SrPernax/obsidian-easyfilereplace">
+        <img src="banner-easyfilereplace.png" alt="Banner de Obsidian Easy File Replace" width="100%">
+      </a>
+      <br><br>
+      <em>An Obsidian plugin to effortlessly replace your attachments' contents without breaking links.</em>
+      <br><br>
+      <a href="https://github.com/SrPernax/obsidian-easyfilereplace">Visit repository →</a>
+    </td>
+  </tr>
+</table>
